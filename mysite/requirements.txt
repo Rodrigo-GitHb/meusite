@@ -1,4 +1,4 @@
-Django==5.0.3
+Django==5.2.8
 factory-boy==3.3.0
 Faker==24.2.0
 pytest==8.1.1
